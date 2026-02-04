@@ -1,11 +1,9 @@
 # SmartRetail_Analytics
 
 
-Here’s a cleaner, sharper, and more professional rewrite of your content — polished for GitHub or portfolio use:
 
----
 
-# 📊 End-to-End Data Analytics Project
+
 
 This project represents a complete, industry-standard, end-to-end data analytics workflow designed to replicate real-world responsibilities of professional data analysts in modern business environments. It covers the full analytics lifecycle — from raw data preparation to business insight generation, visualization, and strategic reporting.
 
